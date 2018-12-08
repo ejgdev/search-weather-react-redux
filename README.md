@@ -60,3 +60,9 @@ When your heroku app is created, just need deploy with this command:
 ```
 git push heroku master
 ```
+
+### Google mapStateToProps
+
+If you want handle Google maps in Deployment, You need an Google map Api key and add to `.env` file.
+
+You need yo know, this key has a billing method to work.
