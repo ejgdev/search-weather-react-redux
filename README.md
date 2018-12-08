@@ -65,4 +65,4 @@ git push heroku master
 
 If you want handle Google maps in Deployment, You need an Google map Api key and add to `.env` file.
 
-You need yo know, this key has a billing method to work.
+You need to know, this key has a billing method to work.
