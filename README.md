@@ -4,7 +4,7 @@ This is an app created to Search the weather from a City, is made with ReactJS w
 
 ![](Search Weather React Redux 1.gif)
 
-You can see this alive, [Click here](https://herokuapp.com/).
+You can see this alive, [Click here](https://mysterious-chamber-87993.herokuapp.com/).
 
 This Project is part of the Udemy course - Modern React with Redux by Stephen Grider
 
