@@ -2,6 +2,8 @@
 
 This is an app created to Search the weather from a City, is made with ReactJS with Redux.
 
+`You need to know, this key has a billing method to work.`
+
 ![](Search-Weather-React-Redux-1.gif)
 
 You can see this alive, [Click here](https://mysterious-chamber-87993.herokuapp.com/).
@@ -15,7 +17,7 @@ Click in the download button and get the .zip file. Extract the contents of the 
 Or can clone this repository, just copy the git url and open your terminal and run git clone + repository url:
 
 ```
-git clone https://github.com/edlobox/search-weather-react-redux.git
+git clone https://github.com/ejgdev/search-weather-react-redux.git
 ```
 
 ### Prerequisites
