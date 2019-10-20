@@ -2,7 +2,7 @@
 
 This is an app created to Search the weather from a City, is made with ReactJS with Redux.
 
-`You need to know, this key has a billing method to work.`
+`You need to know, the google map key has a billing method to work.`
 
 ![](Search-Weather-React-Redux-1.gif)
 
